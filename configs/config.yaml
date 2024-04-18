@@ -1,0 +1,24 @@
+##basic
+
+exp_name: "exp1"
+exp_path: "/"
+datetime: "2021-09-01_12-00-00"
+gpu_id: 0
+mode: "train"
+# data
+data_name: "cifar10"
+data_path: "dataset/"
+
+# model
+model_name: "resnet18"
+checkpoint_path: "checkpoints"
+hidden_size: 512
+
+#training
+train_batch_size: 128
+num_epochs: 10
+save_interval: 1
+lr: 0.001
+
+#testing
+test_batch_size: 128
