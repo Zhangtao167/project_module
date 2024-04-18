@@ -2,7 +2,9 @@
 This is a project module for a new project, which inludes the file framework, DL pipline, RM.md example and some useful utils.
 **To be updating now.**
 
-# CinDM: Compositional Generative Inverse  Design (ICLR 2024 spotlight)
+Any questions, please contact by zhangtao@westlake.edu.cn
+
+# paper_name
 
 [Paper](URL) | [arXiv](URL) | [Poster](URL) | [Tweet](URL) 
 
