@@ -12,7 +12,7 @@ Official repo for the paper [Paper Name](URL).<br />
 [Author name](URL)
 ICLR 2024 **spotlight**. 
 
-We propose a novel formulation for inverse design as an energy optimization problem and introduce Compositional Inverse Design with Diffusion Models method(CinDM) to enable us to generalize to out-of-distribution and more complex design inputs than seen in training, which outperforms the existing works in n-body and 2D airfoil design.
+We propose a novel XXX.
 
 Framework of paper:
 <a href="url"><img src="/assets/fig1.png" align="center" width="600" ></a>
@@ -79,7 +79,7 @@ python inference.py
   
 * [NAME](URL) (ICLR 2023 spotlight): brief description of the project.
 
-
+Numerous practices and standards were adopted from [CinDM](https://github.com/AI4Science-WestlakeU/cindm).
 ## Citation
 If you find our work and/or our code useful, please cite us via:
 
