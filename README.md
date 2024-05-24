@@ -9,7 +9,7 @@ Any questions, please contact by zhangtao@westlake.edu.cn
 [Paper](URL) | [arXiv](URL) | [Poster](URL) | [Tweet](URL) 
 
 Official repo for the paper [Paper Name](URL).<br />
-[Author name](URL)
+[Author name](https://zhangtao167.github.io)
 ICLR 2024 **spotlight**. 
 
 We propose a novel XXX.
